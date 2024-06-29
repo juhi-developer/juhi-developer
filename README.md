@@ -2,15 +2,20 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here's a little bit about me and my work.
 
-/* ## 🔭 Current Projects
+## 🔭 Current Projects
 
-- **Project 1:** Brief description of your project.
-- **Project 2:** Brief description of your project. */
+- **Project 1:** Games project.
+- **Project 2:** Calculator project.
 
-## 🌱 Learning Goals
+## 🎮 Current Game Projects
 
-- Deepening my understanding of [technology/language/framework].
-- Exploring the possibilities of [technology/language/framework].
+- **Game 1:** A thrilling action-adventure game set in a mystical world. Explore, battle, and uncover secrets.
+- **Game 2:** A strategic puzzle game that challenges your problem-solving skills with intricate levels and unique mechanics.
+
+## 🌟 Featured Games
+
+- **GujjuQuest:** An epic RPG adventure where you embark on quests, battle monsters, and become a hero.
+- **PuzzleMaster:** A mind-bending puzzle game with levels that will test your logic and creativity.
 
 ## 👯 Collaboration
 
@@ -18,20 +23,19 @@ I'm open to collaborating on exciting projects that make a difference. Feel free
 
 ## 🤔 Interests
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Song
+- Learning new things
+- Traveling
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/your-handle)
+- **Email:** developer.juhi@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/juhi-kothwala-40419519a/
+- **Twitter:** https://x.com/juhi_kothwala
 
 ## 💬 Ask Me About
 
-- [Technology/language/framework you're proficient in]
-- [Interesting fact about your work/hobbies]
+- Interesting fact about your work/hobbies
 
 ## ⚡ Fun Fact
 
