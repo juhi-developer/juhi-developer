@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here's a little bit about me and my work.
 
-## 🔭 Current Projects
+/* ## 🔭 Current Projects
 
 - **Project 1:** Brief description of your project.
-- **Project 2:** Brief description of your project.
+- **Project 2:** Brief description of your project. */
 
 ## 🌱 Learning Goals
 
