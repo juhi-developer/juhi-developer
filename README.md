@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Senior Full Stack Developer | Team Lead
 
-I'm a passionate **Full Stack Developer** with **7.7+ years of experience** in designing, developing, and leading modern web and mobile applications. I enjoy building scalable products, solving complex problems, and mentoring development teams to deliver high-quality software.
+I'm a passionate **Full Stack Developer** with **8+ years of experience** in designing, developing, and leading modern web and mobile applications. I enjoy building scalable products, solving complex problems, and mentoring development teams to deliver high-quality software.
 
 I specialize in JavaScript technologies across both frontend and backend and love turning ideas into real-world applications.
 
